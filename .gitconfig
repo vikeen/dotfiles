@@ -1,0 +1,14 @@
+[user]
+  name = jmrake
+  email = john.rake12@gmail.com
+[core]
+  editor = vim
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout
+  df = diff
+  lg = log -p
+[color]
+	ui = true
